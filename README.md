@@ -1,4 +1,4 @@
-# lifebuddy
+# Life Buddy
 
 TODO APP
 
